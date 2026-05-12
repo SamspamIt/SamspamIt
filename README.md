@@ -10,13 +10,28 @@
 
 ## 🚀 About Me
 
-```javascript
-const sanjana = { 
-  💻 skills    : ["HTML", "CSS", "JavaScript", "React.js", "Bootstrap", "Tailwind"],
-  🔐 interests : ["Cybersecurity", "Frontend Dev", "UI/UX Design"],
-  🌱 currently : "Learning & Building every single day",
-  📫 contact   : "sanjanaa.s.official@gmail.com",
-  fun_fact     : "I debug with coffee ☕ and determination 💪"
+```js
+const sanjana = {
+  role: "Frontend Developer",
+
+  tech: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Tailwind CSS"
+  ],
+
+  interests: [
+    "Cybersecurity",
+    "UI/UX",
+    "Creative Development"
+  ],
+
+  currentlyLearning: "Advanced React & Scalable Frontend",
+
+  funFact:
+    "I turn caffeine into responsive layouts ☕"
 };
 ```
 
@@ -26,44 +41,44 @@ const sanjana = {
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,express,git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamspamIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamspamIt&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamspamIt&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamspamIt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamspamIt&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 
 
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 💬 Let's Connect!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanaa.s.official@gmail.com)
+<a href="mailto:sanjanaa.s.official@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-![](https://komarev.com/ghpvc/?username=SamspamIt&color=blueviolet&style=for-the-badge&label=Profile+Views)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=SamspamIt&label=Profile+Views&color=6B00D7&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6B00D7&height=120&section=footer"/>
 
 </div>

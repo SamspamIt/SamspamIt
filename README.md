@@ -57,7 +57,15 @@ const sanjana = {
 
 </div>
 
+---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sanjana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamspamIt&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/SamspamIt)
+
+</div>
 
 ---
 
